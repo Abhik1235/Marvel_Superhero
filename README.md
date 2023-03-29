@@ -19,5 +19,5 @@ This code is built with help of coding ninjas lectures for the skill test.
 * Open index.html in any browser.
 ## Authors
 
-- [@Mayur Kakade](https://www.github.com/DevMayur)
+- Abhik Chakraborty
 
